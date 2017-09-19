@@ -1,0 +1,14 @@
+$(function(){
+  $('#button').button();.
+
+
+
+
+
+
+
+
+
+
+
+})
